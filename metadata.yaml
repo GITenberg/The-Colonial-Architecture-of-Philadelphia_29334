@@ -1,0 +1,32 @@
+_repo: The-Colonial-Architecture-of-Philadelphia_29334
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Riley, Phil M. (Phil Madison)
+    alias: Riley, Phil Madison
+    birthdate: 1882
+    gutenberg_agent_id: '33854'
+    url: http://www.gutenberg.org/2009/agents/33854
+  - agent_name: Cousins, Frank
+    birthdate: 1851
+    gutenberg_agent_id: '33853'
+    url: http://www.gutenberg.org/2009/agents/33853
+description: ''
+gutenberg_issued: '2009-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29334'
+  lccn: '20022831'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Architecture -- Pennsylvania -- Philadelphia'
+- !lcsh 'Architecture, Colonial'
+title: The Colonial Architecture of Philadelphia
+url: http://www.gutenberg.org/ebooks/29334
